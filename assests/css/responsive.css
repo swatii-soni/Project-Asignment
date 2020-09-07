@@ -1,5 +1,12 @@
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
 .card-listng .col-md-6.col-lg-3 {
     padding-left: 15px;
+}
+}
+
+@media screen and (max-width: 767px) and (min-width: 415px) {
+.filtr-list button.labl-btn {
+    width: 105px;
+    float: initial;
 }
 }
